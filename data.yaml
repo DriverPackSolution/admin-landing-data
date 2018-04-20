@@ -1,7 +1,7 @@
 online:
-  version: 17.7.91
+  version: 17.7.94
 network:
-  version: 17.7.73.6
+  version: 17.7.73.7
   links:
     - text: 'exe'
       downloadLink: 'http://download.drp.su/builds/DriverPack_17.7.73_LAN.exe'
@@ -10,21 +10,21 @@ network:
       downloadLink: 'http://download.drp.su/DriverPack-LAN.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'http://turbobit.net/az1poftl63kv/DriverPack_17.7.73.6_LAN.exe.html'
+      downloadLink: 'http://turbobit.net/zdkfjigc2v05/DriverPack_17.7.73.7_LAN.exe.html'
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://www.gigabase.com/getfile/.Uc_SAmg7eZQFpCsbE5g8QBB/DriverPack-17.7.73.6-LAN.exe.html'
+      downloadLink: 'http://www.gigabase.com/getfile/.Uc_SAmg7ebOSDb87Oup-wBB/DriverPack-17.7.73.7-LAN.exe.html'
       source: 'gigabase'
 offline:
-  version: 17.7.73.6
+  version: 17.7.73.7
   size: 16 GB
   links:
     - text: 'torrent-file'
       downloadLink: 'http://download.drp.su/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'http://turbobit.net/abuqg4fz0iqn/DriverPack_17.7.73.6.iso.html'
+      downloadLink: 'http://turbobit.net/tluhrv280tzt/DriverPack_17.7.73.7.iso.html'
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://www.gigabase.com/getfile/.Uc_SAmg7ebFIqA9q6DKnQBB/DriverPack-17.7.73.6.iso.html'
+      downloadLink: 'http://www.gigabase.com/getfile/.Uc_SAmg7eabHmRUtGmzsQBB/DriverPack-17.7.73.7.iso.html'
       source: 'gigabase'
