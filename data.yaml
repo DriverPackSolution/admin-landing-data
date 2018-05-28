@@ -20,7 +20,7 @@ offline:
   size: 17 GB
   links:
     - text: 'torrent-file'
-      downloadLink: 'http://download.drp.su/DriverPack-Offline.torrent'
+      downloadLink: 'http://download0.drp.su/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
       downloadLink: 'http://turbobit.net/041lqudxc728/DriverPack_17.7.101.iso.html'
