@@ -4,7 +4,7 @@ network:
   version: 17.7.101
   links:
     - text: 'exe'
-      downloadLink: 'http://download.drp.su/builds/DriverPack_17.7.101-18114_Network.exe'
+      downloadLink: 'http://download0.drp.su/builds/DriverPack_17.7.101-18114_Network.exe'
       source: 'download'
     - text: 'torrent-file'
       downloadLink: 'http://download.drp.su/DriverPack-LAN.torrent'
