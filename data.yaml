@@ -1,19 +1,19 @@
 online:
-  version: 17.9.0
+  version: 17.9.1
 network:
-  version: 17.7.101
+  version: 17.7.129
   links:
     - text: 'exe'
-      downloadLink: 'http://download.drp.su/builds/DriverPack_17.7.101-18120_Network.exe'
+      downloadLink: 'http://download.drp.su/builds/DriverPack_17.7.129-18120_Network.exe'
       source: 'download'
     - text: 'torrent-file'
       downloadLink: 'http://download.drp.su/DriverPack-LAN.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turbobit.net/k7l3r5ewh08g/DriverPack_17.7.101-18120_Network.exe.html'
+      downloadLink: 'https://turbobit.net/dk1ib3ip0dnq/DriverPack_17.7.129-18120_Network.exe.html'
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR07l7Km9CoukQBB/DriverPack-17.7.101-18120-Network.exe.html'
+      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR0fRe7kLYhRlQBB/DriverPack-17.7.129-18120-Network.exe.html'
       source: 'gigabase'
 offline:
   version: 17.7.101
