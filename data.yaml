@@ -16,15 +16,15 @@ network:
       downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR0fRe7kLYhRlQBB/DriverPack-17.7.129-18120-Network.exe.html'
       source: 'gigabase'
 offline:
-  version: 17.7.101
-  size: 17 GB
+  version: 17.7.129
+  size: 19 GB
   links:
     - text: 'torrent-file'
       downloadLink: 'http://download.drp.su/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turbobit.net/0vy9y3autndh/DriverPack_17.7.101-18114.iso.html'
+      downloadLink: 'https://turbobit.net/0w4d1nhng1gn/DriverPack_17.7.129-18120.iso.html'
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR0nlFPHNDhOCgBB/DriverPack-17.7.101-18114.iso.html'
+      downloadLink: 'https://hitfile.net/ayz625B/DriverPack_17.7.129-18120.iso.html'
       source: 'gigabase'
