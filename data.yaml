@@ -1,19 +1,19 @@
 online:
-  version: 17.10.14
+  version: 17.11.5
 network:
-  version: 17.10.14-19062
+  version: 17.10.14-19083
   links:
     - text: 'exe'
-      downloadLink: 'http://download.drp.su/builds/DriverPack_17.10.14-19062_Network.exe'
+      downloadLink: 'http://download.drp.su/builds/DriverPack_17.10.14-19083_Network.exe'
       source: 'download'
     - text: 'torrent-file'
       downloadLink: 'http://download.drp.su/DriverPack-LAN.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turbo.to/x0hph01ocqsd/DriverPack_17.10.14-19062_Network.exe.html'
+      downloadLink: 'https://turbo.to/r5bgjxtosg6f/DriverPack_17.10.14-19083_Network.exe.html'
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR20OWLS6F8zrwBB/DriverPack-17.10.14-19062-Network.exe.html'
+      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR11v9Rk72tmfwBB/DriverPack-17.10.14-19083-Network.exe.html'
       source: 'gigabase'
 offline:
   version: 17.10.14-19062
