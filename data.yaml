@@ -13,18 +13,18 @@ network:
       downloadLink: 'https://turbo.to/r5bgjxtosg6f/DriverPack_17.10.14-19083_Network.exe.html'
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR11v9Rk72tmfwBB/DriverPack-17.10.14-19083-Network.exe.html'
+      downloadLink: 'http://gigabase.com/getfile/zfLqSeOqzR11v9Rk72tmfwBB/DriverPack-17.10.14-19083-Network.exe.html'
       source: 'gigabase'
 offline:
-  version: 17.10.14-19062
+  version: 17.10.14-19083
   size: 17 GB
   links:
     - text: 'torrent-file'
       downloadLink: 'http://download.drp.su/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turbo.to/28arhfg2bits/DriverPack_17.10.14-19062.iso.html'
+      downloadLink: 'https://turbo.to/g2iio4gf4bdf/DriverPack_17.10.14-19083.iso.html'
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR3CPcppA.bOAwBB/DriverPack-17.10.14-19062.iso.html'
+      downloadLink: 'http://gigabase.com/getfile/zfLqSeOqzR2-3.9PZd1t.gBB/DriverPack-17.10.14-19083.iso.html'
       source: 'gigabase'
