@@ -1,30 +1,30 @@
 online:
-  version: 17.11.13
+  version: 17.11.17
 network:
-  version: 17.10.14-19103
+  version: 17.10.14-19112
   links:
     - text: 'exe'
-      downloadLink: 'http://dl.drp.su/builds/DriverPack_17.10.14-19093_Network.exe'
+      downloadLink: 'http://dl.drp.su/builds/DriverPack_17.10.14-19112_Network.exe'
       source: 'download'
     - text: 'torrent-file'
       downloadLink: 'http://download.drp.su/DriverPack-LAN.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turbo.to/hvfqr7tgksb7/DriverPack_17.10.14-19103_Network.exe.html'
+      downloadLink: 'https://turbo.to/ki8jnh72ryyc/DriverPack_17.10.14-19112_Network.exe.html'
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR15zSVhWQtroQBB/DriverPack-17.10.14-19103-Network.exe.html'
+      downloadLink: 'http://gigabase.com/getfile/zfLqSeOqzR3nLzx8SZ9.4QBB/DriverPack-17.10.14-19112-Network.exe.html'
       source: 'gigabase'
 offline:
-  version: 17.10.14-19103
+  version: 17.10.14-19112
   size: 19 GB
   links:
     - text: 'torrent-file'
       downloadLink: 'http://download.drp.su/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turbo.to/j094344m722s/DriverPack_17.10.14_19103.iso.html'
+      downloadLink: 'https://turbo.to/vgdfgg688wvp/DriverPack_17.10.14_19112.iso.html'
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR03kTM6DdcuxwBB/DriverPack-17.10.14-19103.iso.html'
+      downloadLink: 'http://gigabase.com/getfile/zfLqSeOqzR0Mb-5zemkqHgBB/DriverPack-17.10.14-19112.iso.html'
       source: 'gigabase'
