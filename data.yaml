@@ -4,10 +4,10 @@ network:
   version: 17.10.14-19112
   links:
     - text: 'exe'
-      downloadLink: 'http://dl.drp.su/builds/DriverPack_17.10.14-19112_Network.exe'
+      downloadLink: 'http://dl.drp.su/builds/DriverPack_17.10.14-19103_Network.exe'
       source: 'download'
     - text: 'torrent-file'
-      downloadLink: 'http://download.drp.su/DriverPack-LAN.torrent'
+      downloadLink: 'http://dl.drp.su/DriverPack-LAN.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
       downloadLink: 'https://turbo.to/ki8jnh72ryyc/DriverPack_17.10.14-19112_Network.exe.html'
@@ -20,7 +20,7 @@ offline:
   size: 19 GB
   links:
     - text: 'torrent-file'
-      downloadLink: 'http://download.drp.su/DriverPack-Offline.torrent'
+      downloadLink: 'http://dl.drp.su/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
       downloadLink: 'https://turbo.to/vgdfgg688wvp/DriverPack_17.10.14_19112.iso.html'
