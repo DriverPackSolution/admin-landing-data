@@ -16,15 +16,15 @@ network:
       downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR2-QI6J19oY_gBB/DriverPack-17.10.14-21041-Network.exe.html'
       source: 'gigabase'
 offline:
-  version: 17.10.14-21024
+  version: 17.10.14-21041
   size: 25 GB
   links:
     - text: 'torrent-file'
       downloadLink: 'http://dl.drp.su/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turb.cc/wmhq81dyp0jr/DriverPack_17.10.14-21024.iso.html'
+      downloadLink: 'https://turb.cc/smqgx17mnma8/DriverPack_17.10.14-21041.iso.html
       source: 'turbobit'
     - text: 'gigabase.com'
-      downloadLink: 'http://gigabase.com/getfile/zfLqSeOqzR1SHNIM4niHw-BB/DriverPack-17.10.14-21024.iso.html'
+      downloadLink: 'http://www.gigabase.com/getfile/zfLqSeOqzR0cfFhu_qzeKgBB/DriverPack-17.10.14-21041.iso.html'
       source: 'gigabase'
