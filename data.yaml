@@ -9,12 +9,12 @@ network:
     - text: 'torrent-file'
       downloadLink: 'http://dl.drp.su/DriverPack-LAN.torrent'
       source: 'torrent'
-    - text: 'turbobit.net'
-      downloadLink: 'https://turb.cc/cy4odssdll1d/DriverPack_17.10.14-21080_Network.exe.html'
-      source: 'turbobit'
-    - text: 'hitfile.net'
-      downloadLink: 'https://hitf.cc/SKeK0wE/DriverPack_17.10.14-21080_Network.exe.html'
-      source: 'hitfile'
+    - text: 'uploadrar.com'
+      downloadLink: 'https://uploadrar.com/owelco4ee61w'
+      source: 'uploadrar'
+    - text: 'up-load.io'
+      downloadLink: 'https://up-load.io/9z12gggq6ooz'
+      source: 'up-load'
 offline:
   version: 17.10.14-21080
   size: 25 GB
