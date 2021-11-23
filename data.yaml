@@ -10,10 +10,10 @@ network:
       downloadLink: 'http://dl.driverpack.io/DriverPack-LAN.torrent'
       source: 'torrent'
     - text: 'uploadrar.com'
-      downloadLink: 'https://uploadrar.com/owelco4ee61w'
+      downloadLink: 'https://uploadrar.com/54i23jno81vd'
       source: 'uploadrar'
     - text: 'up-load.io'
-      downloadLink: 'https://up-load.io/9z12gggq6ooz'
+      downloadLink: 'http://short.katflys.com/d/APNA'
       source: 'up-load'
 offline:
   version: 17.10.14-21093
@@ -23,8 +23,8 @@ offline:
       downloadLink: 'http://dl.driverpack.io/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turb.cc/8jur4apw4epg/DriverPack_17.10.14-21093.iso.html'
+      downloadLink: 'https://turb.cc/vprsk1q9o0hx/DriverPack_17.10.14-21113.iso.html'
       source: 'turbobit'
     - text: 'hitfile.net'
-      downloadLink: 'https://hitf.cc/a8mynD3/DriverPack_17.10.14-21093.iso.html'
+      downloadLink: 'https://hitf.cc/XivgxP0/DriverPack_17.10.14-21113.iso.html'
       source: 'hitfile'
