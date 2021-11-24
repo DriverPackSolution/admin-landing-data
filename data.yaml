@@ -1,10 +1,10 @@
 online:
   version: 17.11.106
 network:
-  version: 17.10.14-21093
+  version: 17.10.14-21113
   links:
     - text: 'exe'
-      downloadLink: 'http://dl.driverpack.io/builds/DriverPack_17.10.14-21093_Network.exe'
+      downloadLink: 'http://dl.driverpack.io/builds/DriverPack_17.10.14-21113_Network.exe'
       source: 'download'
     - text: 'torrent-file'
       downloadLink: 'http://dl.driverpack.io/DriverPack-LAN.torrent'
@@ -16,8 +16,8 @@ network:
       downloadLink: 'http://short.katflys.com/d/APNA'
       source: 'up-load'
 offline:
-  version: 17.10.14-21093
-  size: 26 GB
+  version: 17.10.14-21113
+  size: 27 GB
   links:
     - text: 'torrent-file'
       downloadLink: 'http://dl.driverpack.io/DriverPack-Offline.torrent'
