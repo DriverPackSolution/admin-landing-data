@@ -1,19 +1,19 @@
 online:
   version: 17.11.106
 network:
-  version: 17.10.14-21113
+  version: 17.10.14-21124
   links:
     - text: 'exe'
-      downloadLink: 'http://dl.driverpack.io/builds/DriverPack_17.10.14-21113_Network.exe'
+      downloadLink: 'http://dl.driverpack.io/builds/DriverPack_17.10.14-21124_Network.exe'
       source: 'download'
     - text: 'torrent-file'
       downloadLink: 'http://dl.driverpack.io/DriverPack-LAN.torrent'
       source: 'torrent'
     - text: 'uploadrar.com'
-      downloadLink: 'https://uploadrar.com/54i23jno81vd'
+      downloadLink: 'https://uploadrar.com/jxijn53au64i'
       source: 'uploadrar'
     - text: 'up-load.io'
-      downloadLink: 'http://short.katflys.com/d/APNA'
+      downloadLink: 'https://up-load.io/rqqaf44kbsea'
       source: 'up-load'
 offline:
   version: 17.10.14-21113
