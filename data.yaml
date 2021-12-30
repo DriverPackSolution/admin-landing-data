@@ -3,12 +3,12 @@ online:
 network:
   version: 17.10.14-21124
   links:
-    - text: 'exe'
-      downloadLink: 'http://dl.driverpack.io/builds/DriverPack_17.10.14-21124_Network.exe'
-      source: 'download'
     - text: 'torrent-file'
       downloadLink: 'http://dl.driverpack.io/DriverPack-LAN.torrent'
       source: 'torrent'
+    - text: 'turbobit.net'
+      downloadLink: 'https://turb.cc/hik8a8i56472/DriverPack_17.10.14-21124_Network.exe.html'
+      source: 'turbobit'
     - text: 'uploadrar.com'
       downloadLink: 'https://uploadrar.com/jxijn53au64i'
       source: 'uploadrar'
@@ -16,15 +16,15 @@ network:
       downloadLink: 'https://up-load.io/rqqaf44kbsea'
       source: 'up-load'
 offline:
-  version: 17.10.14-21113
-  size: 27 GB
+  version: 17.10.14-21124
+  size: 28 GB
   links:
     - text: 'torrent-file'
       downloadLink: 'http://dl.driverpack.io/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turb.cc/vprsk1q9o0hx/DriverPack_17.10.14-21113.iso.html'
+      downloadLink: 'https://turb.cc/wx971ap25ya2/DriverPack_17.10.14-21124.iso.html'
       source: 'turbobit'
     - text: 'hitfile.net'
-      downloadLink: 'https://hitf.cc/XivgxP0/DriverPack_17.10.14-21113.iso.html'
+      downloadLink: 'https://hitf.cc/VkrLnkc/DriverPack_17.10.14-21124.iso.html'
       source: 'hitfile'
