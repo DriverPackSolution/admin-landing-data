@@ -1,7 +1,7 @@
 online:
-  version: 17.11.106
+  version: 17.11.108
 network:
-  version: 17.10.14-21124
+  version: 17.10.14-22035
   links:
     - text: 'torrent-file'
       downloadLink: 'http://dl.driverpack.io/DriverPack-LAN.torrent'
@@ -10,10 +10,10 @@ network:
       downloadLink: 'https://turb.cc/hik8a8i56472/DriverPack_17.10.14-21124_Network.exe.html'
       source: 'turbobit'
     - text: 'uploadrar.com'
-      downloadLink: 'https://uploadrar.com/jxijn53au64i'
+      downloadLink: 'https://uploadrar.com/iybl217mee4j'
       source: 'uploadrar'
     - text: 'up-load.io'
-      downloadLink: 'https://up-load.io/rqqaf44kbsea'
+      downloadLink: 'https://up-load.io/hwbbm6de4yp3'
       source: 'up-load'
 offline:
   version: 17.10.14-21124
