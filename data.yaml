@@ -17,15 +17,12 @@ network:
       downloadLink: 'https://up-load.io/tqtedudhatls'
       source: 'up-load'
 offline:
-  version: 17.10.14-22035
-  size: 31 GB
+  version: 17.10.14-22062
+  size: 32 GB
   links:
     - text: 'torrent-file'
       downloadLink: 'http://dl.driverpack.io/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://turb.cc/7thuc1e5l0my/DriverPack_17.10.14-22035.iso.html'
+      downloadLink: 'https://turb.pw/5cv231olmx2x/DriverPack_17.10.14-22062.iso.html'
       source: 'turbobit'
-    - text: 'hitfile.net'
-      downloadLink: 'https://hitf.cc/K5T9EVk/DriverPack_17.10.14-22035.iso.html'
-      source: 'hitfile'
