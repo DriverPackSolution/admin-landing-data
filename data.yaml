@@ -2,7 +2,7 @@ online:
   version: 17.11.108
 network:
   version: 17.10.14-23000
-  size: 750 МB
+  size: 750 MB
   links:
     - text: 'torrent-file'
       downloadLink: 'http://dl.driverpack.io/DriverPack-LAN.torrent'
