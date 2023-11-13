@@ -8,13 +8,13 @@ network:
       downloadLink: 'http://dl.driverpack.io/DriverPack-LAN.torrent'
       source: 'torrent'
     - text: 'uploadrar.com'
-      downloadLink: 'https://uploadrar.com/mmd1sae34cin'
+      downloadLink: 'https://uploadrar.com/l3o2qgbx4ozb'
       source: 'uploadrar'
     - text: 'turbobit.net'
       downloadLink: 'https://trbbt.net/27xnz4gealq6/DriverPack_17.10.14-23110_Network.exe.html'
       source: 'turbobit'
 offline:
-  version: 17.10.14-23090
+  version: 17.10.14-23110
   size: 40 GB
   links:
     - text: 'torrent-file'
