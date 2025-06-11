@@ -5,7 +5,7 @@ network:
   size: 870 MB
   links:
     - text: 'torrent-file'
-      downloadLink: 'http://dl.driverpack.io/DriverPack-LAN.torrent'
+      downloadLink: 'https://dl.driverpack.io/DriverPack-LAN.torrent'
       source: 'torrent'
     - text: 'uploadrar.com'
       downloadLink: 'https://uploadrar.com/4hmiektgb29i'
@@ -18,7 +18,7 @@ offline:
   size: 47 GB
   links:
     - text: 'torrent-file'
-      downloadLink: 'http://dl.driverpack.io/DriverPack-Offline.torrent'
+      downloadLink: 'https://dl.driverpack.io/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
       downloadLink: 'https://trbt.cc/n0o06prfk1qg/DriverPack_17.10.14-25060.iso.html'
