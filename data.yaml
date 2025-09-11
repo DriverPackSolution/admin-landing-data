@@ -14,7 +14,7 @@ network:
       downloadLink: 'https://trbt.cc/74xcdnu08tm3/DriverPack_17.10.14-25091_Network.exe.html'
       source: 'turbobit'
 offline:
-  version: 17.10.14-25060
+  version: 17.10.14-25091
   size: 47 GB
   links:
     - text: 'torrent-file'
