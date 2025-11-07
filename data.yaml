@@ -1,8 +1,8 @@
 online:
   version: 17.11.108
 network:
-  version: 17.10.14-25091
-  size: 888 MB
+  version: 17.10.14-25102
+  size: 878 MB
   links:
     - text: 'torrent-file'
       downloadLink: 'https://dl.driverpack.io/DriverPack-LAN.torrent'
@@ -11,15 +11,15 @@ network:
       downloadLink: 'https://uploadrar.com/ke7j9vov0eri'
       source: 'uploadrar'
     - text: 'turbobit.net'
-      downloadLink: 'https://trbt.cc/74xcdnu08tm3/DriverPack_17.10.14-25091_Network.exe.html'
+      downloadLink: 'https://trbt.cc/adnv6001in3l/DriverPack_17.10.14-25102_Network.exe.html'
       source: 'turbobit'
 offline:
-  version: 17.10.14-25091
-  size: 47 GB
+  version: 17.10.14-25102
+  size: 49 GB
   links:
     - text: 'torrent-file'
       downloadLink: 'https://dl.driverpack.io/DriverPack-Offline.torrent'
       source: 'torrent'
     - text: 'turbobit.net'
-      downloadLink: 'https://trbt.cc/2s1tj7yp9cpu/DriverPack_17.10.14-25091.iso.html'
+      downloadLink: 'https://trbt.cc/4f7s49ztz80o/DriverPack_17.10.14-25102.iso.html'
       source: 'turbobit'
